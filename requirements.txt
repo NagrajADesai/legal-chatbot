@@ -1,0 +1,9 @@
+python-dotenv
+openai
+gradio
+langchain
+langchain-openai
+langchain_google_genai
+langchain_community
+faiss-cpu
+PyPDF2
